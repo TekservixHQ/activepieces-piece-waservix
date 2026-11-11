@@ -2,6 +2,8 @@
 
 <img src="logo.png" width="72" align="right" alt="WAservix">
 
+**WAservix WhatsApp API Gateway** - Activepieces piece: send WhatsApp messages from your own number. By Tekservix.
+
 Send WhatsApp messages from your own number inside [Activepieces](https://www.activepieces.com) flows, with [WAservix](https://tekservix.com/waservix) (formerly WApenda) by Tekservix.
 
 **You need a Tekservix account with WAservix and a WhatsApp number connected in the dashboard.** The piece is a client of the public WAservix API: your plan, limits and numbers are managed in your WAservix dashboard. [Create an account](https://tekservix.com/waservix) · [API docs](https://tekservix.com/waservix/docs/)
