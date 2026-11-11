@@ -1,6 +1,6 @@
 {
   "name": "activepieces-piece-waservix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Activepieces piece for WAservix: send WhatsApp messages from your own number (Tekservix).",
   "keywords": ["activepieces", "activepieces-piece", "whatsapp", "whatsapp-api", "whatsapp-gateway", "waservix", "tekservix"],
   "homepage": "https://tekservix.com/waservix",

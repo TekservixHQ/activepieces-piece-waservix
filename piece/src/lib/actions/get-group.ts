@@ -19,6 +19,6 @@ export const getGroupAction = createAction({
     group_id: Property.ShortText({ displayName: 'Group ID', description: 'Ends in @g.us. Find it with List Groups.', required: true }),
   },
   async run(context) {
-    return waservixApi.call({ apiKey: context.auth.secret_text, method: HttpMethod.GET, path: `/groups/${waservixApi.id(context.propsValue.group_id)}/metadata` });
+    return waservixApi.call({ apiKey: context.auth.secret_text, method: HttpMethod.GET, path: `/groups/${context.propsValue.group_id.trim()}/metadata` });
   },
 });
