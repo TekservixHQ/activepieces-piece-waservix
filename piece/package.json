@@ -1,7 +1,7 @@
 {
   "name": "activepieces-piece-waservix",
-  "version": "1.0.1",
-  "description": "Activepieces piece for WAservix: send WhatsApp messages from your own number (Tekservix).",
+  "version": "1.0.2",
+  "description": "WAservix WhatsApp API Gateway: Activepieces piece by Tekservix. Send WhatsApp messages from your own number.",
   "keywords": ["activepieces", "activepieces-piece", "whatsapp", "whatsapp-api", "whatsapp-gateway", "waservix", "tekservix"],
   "homepage": "https://tekservix.com/waservix",
   "repository": { "type": "git", "url": "git+https://github.com/TekservixHQ/activepieces-piece-waservix.git" },
